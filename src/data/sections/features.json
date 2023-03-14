@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "pe-7s-paint-bucket",
+        "title": "Graphic Design",
+        "content": "Successful graphic design is the key to increasing your sales and therefore, benefits."
+    },
+    {
+        "id": 2,
+        "icon": "pe-7s-phone",
+        "title": "Web & Mobile Design",
+        "content": "Working on web design our team creates astonishing products representing your brand."
+    },
+    {
+        "id": 3,
+        "icon": "pe-7s-display1",
+        "title": "SEO & SMM",
+        "content": "We understand that social media plays an important role in driving traffic to your site."
+    },
+    {
+        "id": 4,
+        "icon": "pe-7s-diskette",
+        "title": "Payment gateway integration",
+        "content": "Installing a payment gateway to get the necessary payment for your business website."
+    }
+]

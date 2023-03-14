@@ -1,0 +1,40 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "image": "/img/team/team-1.jpg",
+      "title": "Stephanie Lawrence",
+      "sub": "CEO, Colabrio Media"
+    },
+    {
+      "id": 2,
+      "image": "/img/team/team-2.jpg",
+      "title": "Alex Regelman",
+      "sub": "CEO, Colabrio Media"
+    },
+    {
+      "id": 3,
+      "image": "/img/team/team-3.jpg",
+      "title": "Stacey Stamper",
+      "sub": "CEO, Colabrio Media"
+    },
+    {
+      "id": 4,
+      "image": "/img/team/team-4.jpg",
+      "title": "Stephanie Lawrence",
+      "sub": "CEO, Colabrio Media"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "text": "UI / UX Design",
+      "value": "80%"
+    },
+    {
+      "id": 2,
+      "text": "Web Development",
+      "value": "90%"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "lightImage": "/img/clients/brands/light/01.png",
+        "darkImage": "/img/clients/brands/dark/1.png",
+        "url": "www.elements.envato.com"
+    },
+    {
+        "id": 2,
+        "lightImage": "/img/clients/brands/light/02.png",
+        "darkImage": "/img/clients/brands/dark/2.png",
+        "url": "www.namecheap.com"
+    },
+    {
+        "id": 3,
+        "lightImage": "/img/clients/brands/light/03.png",
+        "darkImage": "/img/clients/brands/dark/3.png",
+        "url": "www.facebook.com"
+    },
+    {
+        "id": 4,
+        "lightImage": "/img/clients/brands/light/04.png",
+        "darkImage": "/img/clients/brands/dark/4.png",
+        "url": "www.ads.google.com"
+    },
+    {
+        "id": 5,
+        "lightImage": "/img/clients/brands/light/05.png",
+        "darkImage": "/img/clients/brands/dark/5.png",
+        "url": "www.elementor.com"
+    },
+    {
+        "id": 6,
+        "lightImage": "/img/clients/brands/light/06.png",
+        "darkImage": "/img/clients/brands/dark/06.png",
+        "url": "www.Vie.com"
+    },
+    {
+        "id": 7,
+        "lightImage": "/img/clients/brands/light/07.png",
+        "darkImage": "/img/clients/brands/dark/07.png",
+        "url": "www.Vie.com"
+    },
+    {
+        "id": 8,
+        "lightImage": "/img/clients/brands/light/08.png",
+        "darkImage": "/img/clients/brands/dark/08.png",
+        "url": "www.Vie.com"
+    }
+]
