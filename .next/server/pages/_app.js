@@ -333,7 +333,7 @@ module.exports = require("react/jsx-runtime");
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"E8":"public/img/art-logo.png","Q1":"public/img/art-logo.png","QP":true}');
+module.exports = JSON.parse('{"E8":"/img/art-logo.png","Q1":"/img/art-logo.png","QP":true}');
 
 /***/ })
 

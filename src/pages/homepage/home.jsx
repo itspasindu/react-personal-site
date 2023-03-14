@@ -3,9 +3,9 @@ import Navbar from "../../components/Navbar/navbar";
 import Footer from "../../components/Footer/footer";
 import DarkTheme from "../../layouts/Dark";
 import FreelancreIntro from "../../components/Freelancre-intro/freelancre-intro";
-import Services5 from "../../components/Services5/services5";
+import Services from "../../components/Services/services";
 import WorksStyle4 from "../../components/Works-style4/works-style4";
-import AboutUs5 from "../../components/About-us5/about-us5";
+import AboutUs5 from "../../components/About-us/about-us";
 import FullTestimonials from "../../components/Full-testimonials/full-testimonials";
 import Blogs2 from "../../components/blogs/Blogs2/blogs2";
 import SContactForm from "../../components/s-contact-form/s-contact-form";
@@ -33,7 +33,7 @@ const Homepage = () => {
     <DarkTheme>
       <Navbar nr={navbarRef} lr={logoRef} />
       <FreelancreIntro />
-      <Services5  />
+      <Services  />
       <WorksStyle4 />
       <AboutUs5 />
       <FullTestimonials showHead />
