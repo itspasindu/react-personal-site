@@ -37,7 +37,7 @@ var _interop_require_default = (__webpack_require__(2648)/* ["default"] */ .Z);
 
 var _react = _interop_require_default(__webpack_require__(6689));
 
-var _head = _interop_require_default(__webpack_require__(5429));
+var _head = _interop_require_default(__webpack_require__(4957));
 
 const statusCodes = {
   400: 'Bad Request',
@@ -137,7 +137,7 @@ exports["default"] = Error;
 
 /***/ }),
 
-/***/ 5429:
+/***/ 4957:
 /***/ ((module) => {
 
 module.exports = require("next/dist/shared/lib/head.js");

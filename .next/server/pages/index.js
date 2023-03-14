@@ -2,7 +2,7 @@
 (() => {
 var exports = {};
 exports.id = 5405;
-exports.ids = [5405,9736];
+exports.ids = [5405,897];
 exports.modules = {
 
 /***/ 6243:
@@ -14,7 +14,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6689);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _demos_demos__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6820);
+/* harmony import */ var _homepage_home__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(8697);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(997);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__);
 
@@ -24,11 +24,18 @@ __webpack_require__.r(__webpack_exports__);
 
 const Home = () => {
   return /*#__PURE__*/react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.Fragment, {
-    children: /*#__PURE__*/react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx(_demos_demos__WEBPACK_IMPORTED_MODULE_1__["default"], {})
+    children: /*#__PURE__*/react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx(_homepage_home__WEBPACK_IMPORTED_MODULE_1__["default"], {})
   });
 };
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Home);
+
+/***/ }),
+
+/***/ 2296:
+/***/ ((module) => {
+
+module.exports = require("formik");
 
 /***/ }),
 
@@ -214,10 +221,10 @@ module.exports = require("react");
 
 /***/ }),
 
-/***/ 4753:
+/***/ 8096:
 /***/ ((module) => {
 
-module.exports = require("react-tsparticles");
+module.exports = require("react-slick");
 
 /***/ }),
 
@@ -228,10 +235,10 @@ module.exports = require("react/jsx-runtime");
 
 /***/ }),
 
-/***/ 9816:
+/***/ 2589:
 /***/ ((module) => {
 
-module.exports = require("styled-jsx/style");
+module.exports = require("typewriter-effect");
 
 /***/ })
 
@@ -242,7 +249,7 @@ module.exports = require("styled-jsx/style");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [2189,676,1664,5032,4746,6820], () => (__webpack_exec__(6243)));
+var __webpack_exports__ = __webpack_require__.X(0, [2189,676,1664,1779,5924,5032,8697], () => (__webpack_exec__(6243)));
 module.exports = __webpack_exports__;
 
 })();

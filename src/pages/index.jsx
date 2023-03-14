@@ -1,5 +1,5 @@
 import React from "react";
-import Demos from "./homepage/home";
+import Demos from "./demos/demos";
 
 const Home = () => {
   return (
