@@ -2,10 +2,10 @@
   "id": 1,
   "smallTitle": "About Us",
   "title": "Our Comapny",
-  "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
-  "image": "/img/feat.jpg",
+  "content": "I’m pasindu dewviman,front-end designer. currently working at Xline Digital and as a freelance designer.I specialize in building digital experiences and creating websites.You can find me now.",
+  "image": "/img/feat.png",
   "stauts": [
-    { "id": 1, "number": "3", "letter": "K", "stautsName": "Happy Clients" },
-    { "id": 2, "number": "14", "letter": "K", "stautsName": "Success Projects" }
+    { "id": 1, "number": "43", "letter": "+", "stautsName": "Happy Clients" },
+    { "id": 2, "number": "74", "letter": "+", "stautsName": "Success Projects" }
   ]
 }
