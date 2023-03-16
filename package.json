@@ -5,7 +5,7 @@
   "homepage": "https://itspasindu.github.io/react-personal-site",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "react-scripts build",
     "export": "next build && next export",
     "start": "next start",
     "lint": "next lint",
